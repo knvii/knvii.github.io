@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://knvii.github.io/FFW/sitemap.FFW.gz
